@@ -1,0 +1,51 @@
+[
+    {
+        "course_number": "MATH 1350",
+        "course_name": "Statistics for IT",
+        "description": "Presentation of data in tabular and graphical form. Frequency distribution, measures of central tendency and variation. Probability, discrete and continuous data. Binomial and Normal probability distributions. Sampling, confidence limits, and hypothesis testing. Regression, correlation, and chi-square test. Applications to data and problems relevant to information technology.",
+        "credits": 4.0,
+        "pre-reqs": "N/A"
+    },
+    {
+        "course_number": "ACIT 2420",
+        "course_name": "Linux System Administration",
+        "description": "This course teaches students basic system administration tasks using Linux. At the end of the course the students should be able to install and configure a Linux-based systems. Configuration tasks include installing the software, adding hardware, networking the servers, managing users, monitoring performance, scripting and troubleshooting. Students are also expected to configure common server service.",
+        "credits": 4.0,
+        "pre-reqs": "ACIT 1420"
+    },
+    {
+        "course_number": "ACIT 2520",
+        "course_name": "Developing Web Applications",
+        "description": "This course develops an understanding of the fundamental underpinnings of client-server interaction within the context of Web Applications. Topics covered include using modern javascript, building asynchronous non-blocking web servers, working with databases to persist data, creating RESTful Web Services, and application deployment.",
+        "credits": 4.0,
+        "pre-reqs": "ACIT 1620 & ACIT 1515"
+    },
+    {
+        "course_number": "ACIT 2515",
+        "course_name": "Advanced Programming in Python (Object Oriented Programming)",
+        "description": "This course uses Python to introduce object-oriented programming principles and techniques to students who have completed ACIT 1515 or equivelent. Topics include: object-oriented programming concepts (classes, objects, methods, inheritance, encapsulation, and polymorphism), techniques for software design and reuse, use of typical Python libraries and modules, unit testing and debugging of Python programs, creation of HTTP APIs, creation of graphical user interfaces.",
+        "credits": 4.0,
+        "pre-reqs": "ACIT 1515 or COMP 1516 or equivalent"
+    },
+    {
+        "course_number": "ACIT 2831",
+        "course_name": "Business Systems Analysis",
+        "description": "Business Analysis and Systems Design is the study of concepts, processes and tools that professionals use to plan and develop information systems. Students learn how to ask implicit questions, create plans and make decisions as needed to support the creation of an information system. Students work in teams to initiate the system process, analyze problems, discover requirements and create a logical design. Topics include: techniques used in the discovery of business requirements, traditional approaches to data and process modelling, and techniques for Object Oriented modelling. Agile approaches to software development are also introduced.",
+        "credits": 4.0,
+        "pre-reqs": "ORGB 1100"
+    },
+    {
+        "course_number": "ACIT 2620",
+        "course_name": "Principles of Enterprise Networking",
+        "description": "This course introduces students to core networking concepts, terminologies, and their implementations. Topics are introduced and examined by implementing and configuring network services using contemporary technologies. The course includes a semester long hands-on practical networking project, as well a discussion of fundamental concepts such as network topologies, protocols, transmission media, switching techniques, access control and addressing. TCP/IP and the OSI Reference Model are used throughout the course.",
+        "credits": 4.0,
+        "pre-reqs": "ACIT 1420 & MATH 1310"
+    },
+    {
+        "course_number": "COMM 2216",
+        "course_name": "Business Communications 2",
+        "description": "Information technology professionals spend time each day communicating orally and in writing with their supervisors, colleagues and clients. As problem-solvers and entrepreneurs in industry, you need to communicate quickly, clearly, and effectively. This course will build on the skills you learned in first term to be an efficient and professional communicator at work. You will learn how to conduct an effective job search and write the accompanying resume and cover letter to support it. You will also write effective reports, deliver a persuasive oral presentation to your set, and participate effectively in meetings and group work. You will prepare a formal report and present it orally and in writing.",
+        "credits": 4.0,
+        "pre-reqs": "COMM 1116 or COMM 1106 or COMM 1103"
+    }
+]
